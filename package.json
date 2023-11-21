@@ -12,7 +12,8 @@
   "homepage": "https://github.com/ookamiiixd/baileys-api#readme",
   "license": "MIT",
   "scripts": {
-    "start": "npm run start",
+    "start": "node .",
+    "build": "tsc",
     "lint": "eslint .",
     "format": "prettier . --write"
   },
