@@ -13,7 +13,6 @@
   "license": "MIT",
   "scripts": {
     "start": "npm run start",
-    "build": "npm run build && prisma generate",
     "lint": "eslint .",
     "format": "prettier . --write"
   },
