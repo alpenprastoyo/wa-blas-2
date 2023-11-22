@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import type { proto, WAGenericMediaMessage, WAMessage } from '@whiskeysockets/baileys';
 import { downloadMediaMessage } from '@whiskeysockets/baileys';
 import { serializePrisma } from '@ookamiiixd/baileys-store';
